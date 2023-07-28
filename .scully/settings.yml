@@ -1,0 +1,12 @@
+identifier: lfk9l7p0ufv5x7zc
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my-blog
+homeFolder: /home/jfelipef/personal/oreilly/angular/angular_projects/chap02/my-blog
+distFolder: dist/my-blog
+outDir: >-
+  /home/jfelipef/personal/oreilly/angular/angular_projects/chap02/my-blog/dist/static
+handle404: ''
+allowErrorCollect: true
